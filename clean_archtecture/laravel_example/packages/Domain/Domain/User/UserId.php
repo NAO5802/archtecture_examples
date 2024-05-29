@@ -2,7 +2,7 @@
 
 namespace packages\Domain\Domain\User;
 
-class UseId
+class UserId
 {
     /**
      * @param string $value
