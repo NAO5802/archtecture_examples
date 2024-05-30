@@ -4,6 +4,7 @@ namespace packages\Domain\Application\User;
 
 use packages\Domain\Domain\User\User;
 use packages\Domain\Domain\User\UserId;
+use packages\Domain\Domain\User\UserRepositoryInterface;
 use packages\Usecase\User\Create\UserCreateRequest;
 use packages\Usecase\User\Create\UserCreateResponse;
 use packages\Usecase\User\Create\UserCreateUseCaseInterface;
